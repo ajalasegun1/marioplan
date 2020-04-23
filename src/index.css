@@ -1,0 +1,24 @@
+html {
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: url(/img/unnamed.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100%;
+  background-position: bottom;
+  background-color: goldenrod
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    
+
+}
+
+.frm {
+    margin-top: 50px;
+}
